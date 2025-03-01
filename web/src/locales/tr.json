@@ -1,0 +1,32 @@
+{
+  "app": {
+    "title": "Outvex Boilerplate",
+    "welcome": "Outvex Boilerplate'e Hoş Geldiniz!",
+    "description": "FiveM için Vue 3, Vite ve TailwindCSS ile hazırlanmış boilerplate"
+  },
+  "ui": {
+    "close": "Kapat",
+    "open": "Aç",
+    "save": "Kaydet",
+    "cancel": "İptal",
+    "confirm": "Onayla",
+    "loading": "Yükleniyor...",
+    "error": "Hata",
+    "success": "Başarılı",
+    "warning": "Uyarı"
+  },
+  "settings": {
+    "title": "Ayarlar",
+    "language": "Dil",
+    "theme": "Tema",
+    "dark": "Koyu",
+    "light": "Açık",
+    "system": "Sistem"
+  },
+  "errors": {
+    "general": "Bir hata oluştu",
+    "notFound": "Sayfa bulunamadı",
+    "serverError": "Sunucu hatası",
+    "networkError": "Ağ hatası"
+  }
+} 
